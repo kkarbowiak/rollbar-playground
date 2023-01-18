@@ -1,0 +1,3 @@
+[submodule "thirdparty/cpp-argparse"]
+	path = thirdparty/cpp-argparse
+	url = https://github.com/kkarbowiak/cpp-argparse
